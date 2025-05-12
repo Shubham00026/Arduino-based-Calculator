@@ -1,8 +1,8 @@
 /**
    Arduino Calculator
 
-   Copyright (C) 2020, Uri Shaked.
-   Released under the MIT License.
+   
+   
 */
 
 #include <LiquidCrystal.h>
